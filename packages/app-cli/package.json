@@ -60,7 +60,7 @@
     "strip-ansi": "^4.0.0",
     "terminal-kit": "^1.30.0",
     "tkwidgets": "^0.5.26",
-    "url-parse": "^1.4.7",
+    "url-parse": "^1.5.0",
     "word-wrap": "^1.2.3",
     "yargs-parser": "^7.0.0"
   },
